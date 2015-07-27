@@ -18,6 +18,7 @@
  <head>
  <meta property="og:image" content="meme.php?id=<?php echo $id ?>" />
  <meta property="og:image:width" content="300" />
+ <meta name="robots" content="noindex" />
 <meta property="og:image:height" content="300" />
   <meta charset="UTF-8">
   <title><?php echo $title ?></title>

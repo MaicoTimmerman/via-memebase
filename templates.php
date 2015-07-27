@@ -4,6 +4,7 @@
 <html>
 <head>
 	<title>Memebase templates</title>
+    <meta name="robots" content="noindex" />
 </head>
 
 <body>

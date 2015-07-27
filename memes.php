@@ -6,6 +6,7 @@
 <html>
  <head>
   <meta charset="UTF-8">
+  <meta name="robots" content="noindex" />
   <title>Bekijk alle memes van een persoon</title>
  </head>
  <body>

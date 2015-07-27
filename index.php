@@ -5,6 +5,7 @@
 <head>
 	<title>Memebase</title>
 	<link href="style.css" type="text/css" rel="stylesheet"  />
+    <meta name="robots" content="noindex" />
 </head>
 
 <body>
